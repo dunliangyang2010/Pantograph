@@ -1,1 +1,3 @@
 https://pysource.com/2021/10/05/object-tracking-from-scratch-opencv-and-python/
+
+Need to download "yolov4.weights", and then put in in this directory
