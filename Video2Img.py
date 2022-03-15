@@ -24,4 +24,5 @@ def video_to_frames():
     cap.release()
     cv2.destroyAllWindows()
     
-video_to_frames()
+if __name__ == '__main__':
+    video_to_frames()
